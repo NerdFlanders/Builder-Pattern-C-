@@ -1,0 +1,7 @@
+C:\Users\jenja\source\repos\builder-pattern-csharp\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+C:\Users\jenja\source\repos\builder-pattern-csharp\BuilderPattern\bin\Debug\BuilderPattern.exe
+C:\Users\jenja\source\repos\builder-pattern-csharp\BuilderPattern\bin\Debug\BuilderPattern.pdb
+C:\Users\jenja\source\repos\builder-pattern-csharp\BuilderPattern\obj\Debug\BuilderPattern.csprojAssemblyReference.cache
+C:\Users\jenja\source\repos\builder-pattern-csharp\BuilderPattern\obj\Debug\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\jenja\source\repos\builder-pattern-csharp\BuilderPattern\obj\Debug\BuilderPattern.exe
+C:\Users\jenja\source\repos\builder-pattern-csharp\BuilderPattern\obj\Debug\BuilderPattern.pdb
