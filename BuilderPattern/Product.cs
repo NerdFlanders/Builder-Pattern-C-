@@ -18,5 +18,10 @@ namespace BuilderPattern
             _parts.ForEach(elem => Console.WriteLine(elem));
         }
 
+        public List<string> getProductList()
+        {
+            return _parts;
+        }
+
     }
 }

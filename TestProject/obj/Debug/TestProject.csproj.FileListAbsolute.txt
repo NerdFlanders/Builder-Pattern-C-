@@ -1,0 +1,17 @@
+C:\Users\jenja\source\repos\Builder-Pattern-C-\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jenja\source\repos\Builder-Pattern-C-\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jenja\source\repos\Builder-Pattern-C-\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jenja\source\repos\Builder-Pattern-C-\TestProject\bin\Debug\TestProject.dll
+C:\Users\jenja\source\repos\Builder-Pattern-C-\TestProject\bin\Debug\TestProject.pdb
+C:\Users\jenja\source\repos\Builder-Pattern-C-\TestProject\bin\Debug\BuilderPattern.exe
+C:\Users\jenja\source\repos\Builder-Pattern-C-\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jenja\source\repos\Builder-Pattern-C-\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jenja\source\repos\Builder-Pattern-C-\TestProject\bin\Debug\BuilderPattern.pdb
+C:\Users\jenja\source\repos\Builder-Pattern-C-\TestProject\bin\Debug\BuilderPattern.exe.config
+C:\Users\jenja\source\repos\Builder-Pattern-C-\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jenja\source\repos\Builder-Pattern-C-\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jenja\source\repos\Builder-Pattern-C-\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+C:\Users\jenja\source\repos\Builder-Pattern-C-\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\jenja\source\repos\Builder-Pattern-C-\TestProject\obj\Debug\TestProject.csproj.CopyComplete
+C:\Users\jenja\source\repos\Builder-Pattern-C-\TestProject\obj\Debug\TestProject.dll
+C:\Users\jenja\source\repos\Builder-Pattern-C-\TestProject\obj\Debug\TestProject.pdb
