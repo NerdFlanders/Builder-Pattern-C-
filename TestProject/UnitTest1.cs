@@ -20,6 +20,7 @@ namespace TestProject
             Assert.AreEqual(p.getProductList()[0], "PartA");
         }
 
+        [TestMethod]
         public void BuilderTwoShouldReturnPartB()
         {
             ConcreteBuilderOne builder1 = new ConcreteBuilderOne();
